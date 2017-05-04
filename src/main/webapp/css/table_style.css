@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+/* TABLE STYLE */
+table {
+	border-collapse: collapse;
+	border: 2px solid #ddd;
+	width: 100%;
+	font-family: sans-serif;
+	font-size: 16px;
+	border: 2px solid #ddd;
+	font-size: 16px;
+}
+
+th {
+	background-color: #ddd;
+}
+
+th, td {
+	text-align: left;
+	padding: 12px;
+}
+
+tr {
+	border-bottom: 1px solid #ddd;
+}
+
+tr:HOVER {
+	background-color: #f1f1f1;
+}
